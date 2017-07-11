@@ -8,7 +8,11 @@
   padding: 0 0 .2em 1em;
 }
 
-/* TODO: Add styles for the icon-menu class. It should be bigger, and off to the right. */
+/* TODO: Add styles for the icon-menu class. It should be bigger, and off to the right. Done. */
+.icon-menu {
+  float: right;
+  font-size: 4em;
+}
 
 .main-nav {
   padding: 0.1em;
